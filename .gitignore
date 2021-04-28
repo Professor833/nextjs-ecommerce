@@ -1,0 +1,6 @@
+/* .gitignore */
+
+/node_modules
+/.next
+/package-lock.json
+/next.config.js
